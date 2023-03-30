@@ -1,0 +1,3 @@
+只从Git仓库中移除该文件，保留工作区中对应的文件
+
+git rm --cached rmCommand.txt（提交本地仓库之后 进行这步操作）

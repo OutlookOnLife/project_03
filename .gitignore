@@ -3,3 +3,5 @@
 
 # 跟踪no.txt文件，即使之前忽略了.txt文件
 !no.txt
+
+!rmCommand.txt
